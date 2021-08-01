@@ -1,4 +1,8 @@
-### Hi there 👋
+### Overview
+
+My name is Hüseyin Aydın. I am a computer engineer. Currently working at VENIT (Vehicular Networking and Intelligent Transporation Systems) Laboratory, on the [Beyond5Project](https://www.beyond5project.org/about-project/).
+
+
 
 <!--
 **hsynydn/hsynydn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
