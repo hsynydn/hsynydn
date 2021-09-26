@@ -1,6 +1,9 @@
 ### Overview
 
-My name is Hüseyin Aydın. I am a computer engineer. Currently working at VENIT (Vehicular Networking and Intelligent Transporation Systems) Laboratory, on the [Beyond5Project](https://www.beyond5project.org/about-project/).
+My name is Hüseyin Aydın. I am a computer engineer.  
+Currently working at VENIT (Vehicular Networking and Intelligent Transporation Systems) Laboratory,  
+on the [Beyond5Project](https://www.beyond5project.org/about-project/).  
+I am making researches about V2X (Vehicle to Everything) systems, making developments on ITS (Intelligent Transportation System) safety  applications, and contributing to large scale demonstration framework of ITS systems. 
 
 
 
