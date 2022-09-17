@@ -1,8 +1,7 @@
 ### Overview
 
 My name is Hüseyin Aydın. I have a B.S degree of Computer Science and Engineering. 
-Currently working at VeNIT (Vehicular Networking and Intelligent Transporation Systems) Laboratory,  
-as a Software Engineer. 
+Currently working at VeNIT (Vehicular Networking and Intelligent Transporation Systems) Laboratory, as a Software Engineer. 
 
 In my role,
  - I am making researches on **Intelligent Transportation Systems (ITS)**.
@@ -10,6 +9,12 @@ In my role,
  - I contribute to the development of a digital twin for ITS Platforms.
  - I contribute devops process.
 
+I love  
+- C/C++  
+- Open Source Idea  
+- Linux  
+  
+and learning about them.
 
 <!--
 **hsynydn/hsynydn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
