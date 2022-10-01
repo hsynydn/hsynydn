@@ -5,9 +5,9 @@ Currently working at VeNIT (Vehicular Networking and Intelligent Transporation S
 
 In my role,
  - I am making researches on **Intelligent Transportation Systems (ITS)**.
- - I contribute ITS Safety Applications.
+ - I contribute to ITS Safety Applications.
  - I contribute to the development of a digital twin for ITS Platforms.
- - I contribute devops process.
+ - I contribute to devops process.
 
 I love  
 - C/C++  
