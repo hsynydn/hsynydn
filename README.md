@@ -1,3 +1,5 @@
+![hsynydn's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsynydn&show_icons=true&theme=tokyonight)
+
 ### Overview
 
 [![Linkedin: hsynydn](https://img.shields.io/badge/-hsynydn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hsynydn/)](https://www.linkedin.com/in/hsynydn/)
