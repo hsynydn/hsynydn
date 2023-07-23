@@ -1,5 +1,8 @@
 ### Overview
 
+[![Linkedin: hsynydn](https://img.shields.io/badge/-hsynydn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hsynydn/)](https://www.linkedin.com/in/hsynydn/)
+[![GitHub hsynydn](https://img.shields.io/github/followers/hsynydn?label=follow&style=social)](https://github.com/hsynydn)
+
 My name is Hüseyin Aydın. I have a B.S degree of Computer Science and Engineering. 
 Currently working at VeNIT (Vehicular Networking and Intelligent Transporation Systems) Laboratory, as a Software Engineer. 
 
