@@ -19,6 +19,8 @@ I love
   
 and learning about them.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsynydn&layout=donut-vertical)](https://github.com/hsynydn/github-readme-stats)
+
 <!--
 **hsynydn/hsynydn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
