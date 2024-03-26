@@ -6,6 +6,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hsynydn&repo=circleRRobot)](https://github.com/hsynydn/circleRRobot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hsynydn&repo=libOpenDRIVE)](https://github.com/hsynydn/libOpenDRIVE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hsynydn&repo=wmediumd)](https://github.com/hsynydn/wmediumd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hsynydn&repo=briket-public)](https://github.com/hsynydn/briket-public)
 
 <!--
 **hsynydn/hsynydn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
